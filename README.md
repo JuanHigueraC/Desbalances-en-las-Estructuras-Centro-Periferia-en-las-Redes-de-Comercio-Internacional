@@ -12,7 +12,7 @@ Luis Eduardo Higuera Calderón | Universidad Nacional de Colombia | lhiguerac@un
 
 Manu Barros | Universidad Nacional de Colombia | vsanchezb@unal.edu.co
 
-Guillermo Eduardo | Pontificia Universidad Católica del Perú | a20190707@pucp.edu.pe
+Guillermo Eduardo | Pontificia Universidad Católica del Perú | guillermo.coronado@pucp.edu.pe
 
 Este repositorio contiene los datos y codigo utilizado en el desarrollo del artículo "Desbalances en las estructuras centro-periferia en las redes de comercio internacional"
 
